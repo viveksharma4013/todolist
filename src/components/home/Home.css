@@ -1,0 +1,6 @@
+.listitem{
+    border: 2px solid black;
+    border-radius: 5%;
+    width: fit-content;
+    padding: 2%;
+}
